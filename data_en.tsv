@@ -1,0 +1,94 @@
+Language	Lexeme	Metaphor	Determinism	Entity_concerned	Agency(FATE)	Agency(Entity_concerned)	Fairness	Sentiment
+EN	fate	Thing	Non-deterministic	Human-specified	Non-agentive	Non-agentive	Non-applicable	Neutral
+EN	fate	Thing	Deterministic	Human-specified	Agentive	Non-agentive	Unjust	Negative
+EN	fate	Thing	Deterministic	Human-unspecified	Non-agentive	Non-agentive	Non-applicable	Negative
+EN	fate	Precious Object	Non-deterministic	Human-specified	Non-agentive	Agentive	Non-applicable	Negative
+EN	fate	Enemy/Oppressor/Danger	Deterministic	Non-human	Agentive	Non-agentive	Unjust	Negative
+EN	fate	Human	Non-deterministic	Human-specified	Non-agentive	Agentive	Non-applicable	Negative
+EN	fate	Human	Deterministic	Human-unspecified	Agentive	Non-agentive	Unjust	Negative
+EN	fate	Precious Object	Non-deterministic	Human-specified	Non-agentive	Agentive	Non-applicable	Neutral
+EN	fate	Human	Deterministic	Human-unspecified	Agentive	Non-agentive	Unjust	Negative
+EN	fate	God/Providence	Deterministic	Human-specified	Agentive	Non-agentive	Just	Positive
+EN	fate	Human	Non-deterministic	Human-specified	Agentive	Non-agentive	Just	Positive
+EN	fate	Thing	Non-deterministic	Non-human	Non-agentive	Agentive	Non-applicable	Negative
+EN	fate	Enemy/Oppressor/Danger	Non-deterministic	Human-specified	Agentive	Agentive	Unjust	Negative
+EN	fate	Enemy/Oppressor/Danger	Non-deterministic	Human-specified	Agentive	Non-agentive	Unjust	Negative
+EN	fate	Thing	Deterministic	Human-specified	Non-agentive	Non-agentive	Non-applicable	Negative
+EN	fate	Destination	Deterministic	Human-specified	Non-agentive	Non-agentive	Non-applicable	Negative
+EN	fate	Thing	Non-deterministic	Non-human	Non-agentive	Non-agentive	Non-applicable	Neutral
+EN	fate	Thing	Non-deterministic	Human-specified	Non-agentive	Non-agentive	Non-applicable	Positive
+EN	fate	Human	Deterministic	Non-human	Agentive	Non-agentive	Neutral	Neutral
+EN	fate	Destination	Deterministic	Human-unspecified	Non-agentive	Non-agentive	Non-applicable	Neutral
+EN	fate	God/Providence	Unspecified	Human-specified	Non-agentive	Non-agentive	Non-applicable	Positive
+EN	fate	Enemy/Oppressor/Danger	Non-deterministic	Human-unspecified	Agentive	Agentive	Unjust	Neutral
+EN	fate	Enemy/Oppressor/Danger	Deterministic	Human-specified	Agentive	Agentive	Unjust	Negative
+EN	fate	Human	Non-deterministic	Human-specified	Agentive	Agentive	Neutral	Neutral
+EN	fate	Human	Deterministic	Human-specified	Agentive	Non-agentive	Just	Positive
+EN	fate	Human	Unspecified	Human-specified	Agentive	Non-agentive	Just	Negative
+EN	fate	Enemy/Oppressor/Danger	Non-deterministic	Human-specified	Agentive	Agentive	Neutral	Positive
+EN	fate	Human	Non-deterministic	Human-specified	Agentive	Agentive	Just	Negative
+EN	fate	Enemy/Oppressor/Danger	Deterministic	Human-unspecified	Agentive	Non-agentive	Unjust	Negative
+EN	fate	Thing	Deterministic	Human-specified	Non-agentive	Non-agentive	Non-applicable	Negative
+EN	fate	Thing	Deterministic	Human-specified	Non-agentive	Non-agentive	Non-applicable	Neutral
+EN	fate	Enemy/Oppressor/Danger	Deterministic	Human-specified	Agentive	Non-agentive	Neutral	Negative
+EN	fate	Human	Unspecified	Human-specified	Non-agentive	Non-agentive	Non-applicable	Neutral
+EN	fate	Human	Unspecified	Unspecified	Agentive	Non-applicable	Neutral	Positive
+EN	fate	Enemy/Oppressor/Danger	Deterministic	Human-specified	Agentive	Non-agentive	Unjust	Negative
+EN	fate	Thing	Unspecified	Human-specified	Agentive	Non-agentive	Neutral	Positive
+EN	fate	Human	Non-deterministic	Human-unspecified	Agentive	Agentive	Neutral	Neutral
+EN	fate	Human	Unspecified	Human-specified	Agentive	Non-agentive	Unjust	Negative
+EN	fate	Human	Deterministic	Human-specified	Agentive	Non-agentive	Neutral	Positive
+EN	fate	Enemy/Oppressor/Danger	Deterministic	Human-specified	Non-agentive	Non-agentive	Non-applicable	Negative
+EN	fate	Human	Non-deterministic	Human-specified	Agentive	Non-agentive	Unjust	Negative
+EN	fate	Thing	Deterministic	Human-specified	Agentive	Non-agentive	Unjust	Negative
+EN	fate	Human	Non-deterministic	Human-unspecified	Agentive	Agentive	Just	Neutral
+EN	fate	Human	Unspecified	Unspecified	Agentive	Non-applicable	Unjust	Neutral
+EN	fate	Destination	Deterministic	Human-unspecified	Non-agentive	Non-agentive	Non-applicable	Neutral
+EN	fate	Human	Non-deterministic	Unspecified	Agentive	Non-applicable	Neutral	Negative
+EN	fate	Enemy/Oppressor/Danger	Non-deterministic	Human-unspecified	Agentive	Agentive	Unjust	Negative
+EN	fate	Enemy/Oppressor/Danger	Non-deterministic	Human-specified	Agentive	Non-agentive	Unjust	Negative
+EN	fate	Thing	Unspecified	Non-human	Non-agentive	Non-agentive	Non-applicable	Negative
+EN	fate	Thing	Non-deterministic	Human-specified	Non-agentive	Non-agentive	Non-applicable	Negative
+EN	destiny	God/Providence	Deterministic	Unspecified	Agentive	Non-applicable	Neutral	Neutral
+EN	destiny	Human	Non-deterministic	Human-unspecified	Non-agentive	Agentive	Non-applicable	Neutral
+EN	destiny	Thing	Deterministic	Human-specified	Non-agentive	Non-agentive	Non-applicable	Negative
+EN	destiny	Human	Non-deterministic	Human-specified	Non-agentive	Agentive	Non-applicable	Neutral
+EN	destiny	Human	Non-deterministic	Human-specified	Agentive	Agentive	Neutral	Neutral
+EN	destiny	Human	Unspecified	Unspecified	Agentive	Non-applicable	Neutral	Neutral
+EN	destiny	Thing	Unspecified	Human-unspecified	Non-agentive	Non-agentive	Non-applicable	Negative
+EN	destiny	Precious Object	Non-deterministic	Human-specified	Non-agentive	Agentive	Non-applicable	Neutral
+EN	destiny	Thing	Unspecified	Human-specified	Non-agentive	Agentive	Non-applicable	Positive
+EN	destiny	Human	Deterministic	Human-unspecified	Agentive	Non-agentive	Neutral	Neutral
+EN	destiny	Thing	Unspecified	Human-unspecified	Non-agentive	Non-agentive	Non-applicable	Neutral
+EN	destiny	Enemy/Oppressor/Danger	Non-deterministic	Human-specified	Agentive	Non-agentive	Unjust	Negative
+EN	destiny	Human	Unspecified	Unspecified	Agentive	Non-applicable	Neutral	Neutral
+EN	destiny	Enemy/Oppressor/Danger	Deterministic	Human-specified	Agentive	Non-agentive	Unjust	Negative
+EN	destiny	Thing	Non-deterministic	Human-specified	Non-agentive	Agentive	Non-applicable	Negative
+EN	destiny	Enemy/Oppressor/Danger	Non-deterministic	Human-specified	Agentive	Agentive	Unjust	Negative
+EN	destiny	Thing	Non-deterministic	Human-specified	Non-agentive	Agentive	Non-applicable	Neutral
+EN	destiny	Precious Object	Non-deterministic	Human-specified	Non-agentive	Agentive	Non-applicable	Neutral
+EN	destiny	Human	Deterministic	Human-unspecified	Agentive	Agentive	Neutral	Neutral
+EN	destiny	Destination	Deterministic	Human-specified	Non-agentive	Agentive	Non-applicable	Positive
+EN	destiny	Human	Unspecified	Human-unspecified	Agentive	Non-agentive	Unjust	Negative
+EN	destiny	Human	Unspecified	Human-specified	Agentive	Non-agentive	Neutral	Positive
+EN	destiny	Thing	Non-deterministic	Human-unspecified	Agentive	Agentive	Neutral	Negative
+EN	destiny	Enemy/Oppressor/Danger	Deterministic	Human-specified	Agentive	Non-agentive	Unjust	Neutral
+EN	destiny	Thing	Unspecified	Human-specified	Agentive	Non-agentive	Neutral	Neutral
+EN	destiny	Precious Object	Deterministic	Human-unspecified	Non-agentive	Non-agentive	Non-applicable	Neutral
+EN	destiny	Thing	Deterministic	Human-specified	Agentive	Non-agentive	Neutral	Negative
+EN	destiny	Human	Deterministic	Human-specified	Agentive	Non-agentive	Neutral	Neutral
+EN	destiny	Precious Object	Non-deterministic	Human-specified	Non-agentive	Non-agentive	Non-applicable	Positive
+EN	destiny	Thing	Non-deterministic	Human-specified	Non-agentive	Agentive	Non-applicable	Positive
+EN	destiny	Thing	Non-deterministic	Human-specified	Non-agentive	Non-agentive	Non-applicable	Negative
+EN	destiny	Destination	Unspecified	Human-specified	Non-agentive	Agentive	Non-applicable	Neutral
+EN	destiny	Human	Deterministic	Human-specified	Agentive	Non-agentive	Just	Negative
+EN	destiny	God/Providence	Unspecified	Human-specified	Agentive	Non-agentive	Neutral	Neutral
+EN	destiny	Thing	Deterministic	Human-specified	Non-agentive	Non-agentive	Non-applicable	Neutral
+EN	destiny	God/Providence	Deterministic	Human-unspecified	Agentive	Non-agentive	Neutral	Positive
+EN	destiny	Precious Object	Non-deterministic	Human-specified	Non-agentive	Non-agentive	Non-applicable	Neutral
+EN	destiny	Human	Unspecified	Human-specified	Agentive	Non-agentive	Neutral	Neutral
+EN	destiny	Precious Object	Non-deterministic	Human-specified	Non-agentive	Non-agentive	Non-applicable	Neutral
+EN	destiny	Human	Deterministic	Human-unspecified	Non-agentive	Non-agentive	Non-applicable	Neutral
+EN	destiny	Thing	Non-deterministic	Unspecified	Non-agentive	Non-applicable	Non-applicable	Neutral
+EN	destiny	Human	Deterministic	Human-specified	Non-agentive	Non-agentive	Non-applicable	Neutral
+EN	destiny	God/Providence	Unspecified	Human-specified	Agentive	Non-agentive	Neutral	Positive
